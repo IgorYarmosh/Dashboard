@@ -1,2 +1,2 @@
-Адаптивная вёрстка лендинга Dashboard. 
-В верстке использовались различные hover-эффекты, абсолютное и фиксированное позиционирование блоков, выпадающий список при наведении.
+Adaptive layout of Dashboard landing page. 
+The layout used various hover effects, absolute and fixed positioning of blocks, drop-down list when hovering.
